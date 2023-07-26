@@ -12,3 +12,5 @@ HTML e CSS
 JavaScript
 Git e Github
 Figma
+
+e teve como referencia o projeto discover da rocketseat, totalmente voltado para fins acadêmicos !
